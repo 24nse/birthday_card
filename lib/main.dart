@@ -13,7 +13,7 @@ class BirthdayCard extends StatelessWidget {
       debugShowCheckedModeBanner: false,
     
       home: Scaffold(
-        backgroundColor: Color(0xFFE4FCFF),
+        backgroundColor: Color(0xFFD2BBD5),
         body: Center(
           child: Image.asset('assets/images/birthday.jpg'),
         ),
